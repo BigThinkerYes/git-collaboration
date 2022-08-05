@@ -1,1 +1,9 @@
 red
+types of apples:
+Cripps Pink / Pink Lady
+Empire
+Fuji
+Gala
+Golden Delicious
+Granny Smith
+Honeycrisp
